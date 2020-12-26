@@ -122,5 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
+    <None Include="..\open6dofsim.nsi" />
   </ItemGroup>
 </Project>
