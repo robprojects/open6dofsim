@@ -8,7 +8,7 @@ CRCCheck ON
 
 !include "MUI2.nsh"
 
-InstallDir "$PROGRAMFILES\${MUI_PRODUCT}"
+InstallDir "$PROGRAMFILES64\${MUI_PRODUCT}"
 
 !define MUI_WELCOMEPAGE
 !define MUI_LICENSEPAGE
